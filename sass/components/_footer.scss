@@ -1,0 +1,124 @@
+
+/* <!--footer --> */
+.footer-logo {
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #2196F3;
+
+}
+
+
+.footer-div{
+  
+    margin-top: 60px;
+   margin-right: 250px;
+    border: 1px solid #0037ff;
+}
+
+.div-button{
+   width: 200px;
+   height: 50px;
+    display: flex;
+    background-color: #0037ff;
+}
+
+
+
+.footer-comit{
+
+    background-color: #2F303A;
+    color: #2F303A;
+    width: 400px;
+    height: 34px;
+}
+
+.footer-p{
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+
+
+footer .container{
+    display: flex;
+}
+
+.footer-informeuhon{
+    border: 2px solid #2196F3;
+}
+
+.footer-sosial{
+    border: 2px solid red;
+}
+
+.footer-title{
+    color: #FFFFFF;
+    margin-top: 60px; 
+    margin-left: 100px;
+  
+    font-weight: 700;
+}
+
+.footer-ul{
+    display: flex;
+   
+    margin-left: 80px;
+
+}
+.footer-li{
+    border-radius:70%; 
+    margin-top: 15px;
+    margin-left: 20px;
+   margin-right: 0px;
+   padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
+
+.footer-li:hover{
+    fill: rgb(127, 178, 255);
+    background-color: #2196F3;;
+   width: 20px;
+    border-radius: 100%; 
+}
+
+.address {
+   
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+}
+
+.footer-link {
+   
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+.section-footer {
+    display: flex;
+    background: #2F303A;
+}

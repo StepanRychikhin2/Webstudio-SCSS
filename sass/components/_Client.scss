@@ -1,0 +1,32 @@
+/* <!-- Постійні клієнти --> */
+.link-ul{
+    display: flex;
+   
+}
+
+.section-Client{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.ligo-Client{
+   text-align: center;
+    margin-bottom: 50px;
+   
+}
+
+.link-Client{
+    border: 2px solid #AFB1B8;
+    border-radius: 4px;
+    color: #AFB1B8;
+    margin-left: 20px;
+color:#AFB1B8 ;
+    transition: color 250ms cubic-bezier(0.17, 0.67, 0.83, 0.67) 30ms,
+       background-color 250ms cubic-bezier(0.17, 0.67, 0.83, 0.67) 50ms;
+}
+
+.link-Client:hover{
+    fill: rgb(127, 178, 255);
+    border-color: #2196F3;;
+  
+}
